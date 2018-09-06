@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#fced3c2c</color>
-    <color name="colorPrimaryDark">#fca41508</color>
-    <color name="colorAccent">#FF4081</color>
+    <color name="colorPrimary">#ed3c2c</color>
+    <color name="colorPrimaryDark">#a41508</color>
+    <color name="colorAccent">#fe3f80</color>
     <color name="white">#fafafa</color>
+    <!--<color name="sombra">#6af2efef</color>-->
     <color name="sombra">#6af2efef</color>
 
     <!--COLOR STATUS PROSPECT-->
-    <color name="yellow">#fcedb32c</color>
-    <color name="red">#fced3c2c</color>
-    <color name="green">#fc037b13</color>
-    <color name="gray">#fc6b6c6c</color>
+    <color name="yellow">#edb32d</color>
+    <color name="red">#ed3c2c</color>
+    <color name="green">#037812</color>
+    <color name="gray">#6c6c6c</color>
 </resources>
